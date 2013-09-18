@@ -1,0 +1,26 @@
+{
+  "name": "skype-dbus",
+  "version": "0.0.1",
+  "description": "SkypeAPI dbus client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sidorares/node-skype-dbus"
+  },
+  "keywords": [
+    "skype",
+    "dbus",
+    "client"
+  ],
+  "bin": {
+     "skype-repl": "./bin/repl.js"
+  }
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "dbus-native": "0.0.13"
+  }
+}
