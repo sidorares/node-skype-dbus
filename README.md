@@ -1,6 +1,8 @@
 node-skype-dbus
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/node-skype-dbus.svg)](https://greenkeeper.io/)
+
 node.js SkypeAPI dbus client
 
 
